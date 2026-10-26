@@ -20,6 +20,8 @@
           packages = with pkgs; [
             dotnet
             git
+            gh
+            opencode
             curl
             jq
           ];
